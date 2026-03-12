@@ -2,7 +2,7 @@
 title: "Page 01 / Panels 01-03"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_01.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_01.png)
 
 {{% columns %}}
 - 1&emsp;铁路局办公室的秘书们为了给复职上任的局长刘大山布置办公室，真是绞尽了脑汁。但刘大山只待了一天就搬到靠车站的那个小房间。

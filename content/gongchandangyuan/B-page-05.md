@@ -2,7 +2,7 @@
 title: "Page 05 / Panels 22-27"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_05.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_05.png)
 
 {{% columns %}}
 - 22&emsp;机车鸣叫，打断了他的思索。眼前是设备陈旧的枢纽站。他想：落后啊！中国的落后就是共产党员的耻辱！一个分局长居然带头……

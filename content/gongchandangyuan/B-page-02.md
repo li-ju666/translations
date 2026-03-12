@@ -2,7 +2,7 @@
 title: "Page 02 / Panels 04-09"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_02.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_02.png)
 
 {{% columns %}}
 - 4&emsp;当辽沈战役即将打响的时候，团长命令他留下和师长一起接管铁路。他抱着枪哭了一宿，执拗地要跟队伍向南方开拔。

@@ -2,7 +2,7 @@
 title: "Page 08 / Panels 40-45"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_08.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_08.png)
 
 {{% columns %}}
 - 40&emsp;玲玲出来撅着嘴倒了一杯水给刘大山。淌着泪说：“刘伯伯，我妈妈在十年浩劫中被迫害致死，现在你这样对待爸爸，他要死了，我……”

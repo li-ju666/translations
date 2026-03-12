@@ -2,7 +2,7 @@
 title: "Page 06 / Panels 28-33"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_06.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_06.png)
 
 {{% columns %}}
 - 28&emsp;吕久才说：“你盼我年轻是不可能，你应该想办法叫青年人早成熟五年、十年，那是完全办得到的。”

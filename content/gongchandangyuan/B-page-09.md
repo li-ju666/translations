@@ -2,7 +2,7 @@
 title: "Page 09 / Panels 46-47"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_09.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_09.png)
 
 {{% columns %}}
 - 46&emsp;刘大山起身告辞，出了大门，回头看见白帆在玲玲搀扶下站在门口，正向自己这边望呢。刘大山的心一动，“哦，他不是块榆木疙瘩。”

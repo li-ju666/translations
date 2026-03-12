@@ -2,7 +2,7 @@
 title: "Page 04 / Panels 16-21"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_04.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_04.png)
 
 {{% columns %}}
 - 16&emsp;调查组走访了工人，察看了现场，测量了撞坏的车辆。结论是：吕久才反映的情况是真实的，实实在在是个严重的大事故。

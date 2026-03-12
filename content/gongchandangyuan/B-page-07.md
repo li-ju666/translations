@@ -2,7 +2,7 @@
 title: "Page 07 / Panels 34-39"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_07.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_07.png)
 
 {{% columns %}}
 - 34&emsp;刘大山嘿嘿地笑起来：“以后怎么样？撤你一个小站之长，天还能塌！又拍又哭，不成就不唬。少弄这一套！娘的，你是共产党员吗?”

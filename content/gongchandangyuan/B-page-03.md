@@ -2,7 +2,7 @@
 title: "Page 03 / Panels 10-15"
 ---
 
-![gongchandangyuan page](images/gongchandangyuan/gcdy_03.png)
+![gongchandangyuan page](/lhh_dir/gongchandangyuan/gcdy_03.png)
 
 {{% columns %}}
 - 10&emsp;这时秘书周锋拎着几串鳌花鱼进来说：“刘局长，这是给你的。” 刘大山晃着手中的信说：“我自己钓着大鱼了。说实话，这信来了几了天?”
