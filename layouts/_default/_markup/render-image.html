@@ -1,7 +1,17 @@
-{{- $url := urls.Parse .Destination -}}
-{{- if $url.Scheme -}}
-  <img src="{{ .Destination }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} />
-{{- else -}}
-  {{- $cleanPath := strings.TrimPrefix "/" .Destination -}}
-  <img src="{{ $cleanPath | relURL }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}"{{ end }} />
+{{- $url := .Destination -}}
+
+{{- /* 1. If it starts with http or https, do nothing */ -}}
+{{- if or (strings.HasPrefix $url "http://") (strings.HasPrefix $url "https://") -}}
+{{- /* URL remains unchanged */ -}}
+
+{{- /* 2. If it starts with /lhh, route it to your R2 bucket */ -}}
+{{- else if strings.HasPrefix $url "${lhh_dir}" -}}
+{{- /* Remove the "/lhh" part from the string */ -}}
+{{- $cleanPath := strings.TrimPrefix "${lhh_dir}" $url -}}
+{{- /* Safely join your yaml lhh_dir with the rest of the path */ -}}
+{{- $url = urls.JoinPath site.Params.lhh_dir $cleanPath -}}
+
+{{- /* 3. Anything else (local static files) will fall through and remain unchanged */ -}}
 {{- end -}}
+
+<img src="{{ $url }}" alt="{{ .Text }}" {{ with .Title }}title="{{ . }}" {{ end }} loading="lazy" />
