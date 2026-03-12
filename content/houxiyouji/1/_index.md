@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
 type: docs
-title: 小石猴出世 Der kleine Steinaffe kommt zur Welt
+title: 1. 小石猴出世 Der kleine Steinaffe kommt zur Welt
 ---
 
 # 后西游记1

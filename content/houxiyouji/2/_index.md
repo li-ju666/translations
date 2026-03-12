@@ -1,7 +1,7 @@
 ---
 bookCollapseSection: true
 type: docs
-title: 小圣闹天宫 Der Kleine Heilige versetzt den Himmel in Aufruhr
+title: 2. 小圣闹天宫 Der Kleine Heilige versetzt den Himmel in Aufruhr
 ---
 
 # 后西游记2
