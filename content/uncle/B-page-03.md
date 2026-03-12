@@ -5,11 +5,11 @@ title: "Page 03 / Panels 13-18"
 {{< tabs "uncle03" >}}
 {{< tab "Chinese, Page 03 / Panels 13-18" >}} 
 <h3>Chinese</h3>
-<img src="/translations/images/uncle/jules-03.jpg">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/uncle/jules-03.jpg">
 {{< /tab >}}
 {{< tab "English, Page 03 / Panels 13-18" >}}
 <h3>English, Page 03 / Panels 13-18</h3>
-<img src="/translations/images/uncle/jules_EN_03.png">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/uncle/jules_EN_03.png">
 {{< /tab >}}
 {{< /tabs >}}
 

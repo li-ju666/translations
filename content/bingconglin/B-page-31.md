@@ -2,7 +2,7 @@
 title: Page 31
 ---
 
-![bingconglin page](/images/bingconglin/bingconglin_32.jpg)
+![bingconglin page](/lhh_dir/bingconglin/bingconglin_32.jpg)
 
 {{% columns %}}
 

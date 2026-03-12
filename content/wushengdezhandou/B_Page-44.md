@@ -1,7 +1,7 @@
 ---
 title: Page 44
 ---
-![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_047.jpg)
+![wushengdezhandou page](/lhh_dir/wushengdezhandou/wushengdezhandou_047.jpg)
 
 {{% columns %}}
 

@@ -1,7 +1,7 @@
 ---
 title: Page 31
 ---
-![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_034.jpg)
+![wushengdezhandou page](/lhh_dir/wushengdezhandou/wushengdezhandou_034.jpg)
 
 {{% columns %}}
 

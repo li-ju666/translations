@@ -2,7 +2,7 @@
 title: Frontcover
 weight: 1
 ---
-![nezha page](/images/nezha/nezha_001.jpg)
+![nezha page](/lhh_dir/nezha/nezha_001.jpg)
 
 {{% columns %}}
 

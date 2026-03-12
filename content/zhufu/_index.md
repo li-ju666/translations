@@ -49,12 +49,12 @@ Two figures, nonetheless differ among the two versions: the temple attendant and
 
 {{< tab "1957 edition" >}} 
 <h3>Page 47</h3>
-<img src="/translations/images/zhufu2/47.jpeg" alt="zhufu2_47">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/zhufu2/47.jpeg" alt="zhufu2_47">
 <p>Source: <a href="https://www.sohu.com/a/355550011_120441479">sohu.com</a></p>
 {{< /tab >}}
 {{< tab "1974 edition" >}}
 <h3>Page 47</h3>
-<img src="/translations/images/zhufu/seifert0772_zf_0052_047.jpg" alt="zhufu_47">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/zhufu/seifert0772_zf_0052_047.jpg" alt="zhufu_47">
 {{< /tab >}}
 {{< /tabs >}}
 
@@ -65,12 +65,12 @@ On the penultimate page, Xianglin's wife inquires with a literate person about l
 {{< tabs "zhufu57" >}}
 {{< tab "1957 edition" >}}
 <h3>Page 57</h3>
-<img src="/translations/images/zhufu2/57.jpeg" alt="zhufu2_57">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/zhufu2/57.jpeg" alt="zhufu2_57">
 <p>Source: <a href="https://www.sohu.com/a/355550011_120441479">sohu.com</a></p>
 {{< /tab >}}
 {{< tab "1974 edition" >}}
 <h3>Page 56</h3>
-<img src="/translations/images/zhufu/seifert0772_zf_0061_056.jpg" alt="zhufu_56">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/zhufu/seifert0772_zf_0061_056.jpg" alt="zhufu_56">
 {{< /tab >}}
 
 {{< /tabs >}}

@@ -1,7 +1,7 @@
 ---
 title: Page 65
 ---
-![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_068.jpg)
+![wushengdezhandou page](/lhh_dir/wushengdezhandou/wushengdezhandou_068.jpg)
 
 {{% columns %}}
 

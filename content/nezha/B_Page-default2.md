@@ -2,7 +2,7 @@
 title: Table of Contents
 weight: 2
 ---
-![nezha page](/images/nezha/nezha_003.jpg)
+![nezha page](/lhh_dir/nezha/nezha_003.jpg)
 
 {{% columns %}}
 - 目录 

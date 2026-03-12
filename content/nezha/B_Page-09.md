@@ -2,7 +2,7 @@
 title: Page 09
 weight: 13
 ---
-![nezha page](/images/nezha/nezha_014.jpg)
+![nezha page](/lhh_dir/nezha/nezha_014.jpg)
 
 {{% columns %}}
 

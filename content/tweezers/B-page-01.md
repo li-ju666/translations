@@ -5,11 +5,11 @@ title: "Page 01"
 {{< tabs "tweezers" >}}
 {{< tab "Chinese" >}} 
 <h3>Chinese</h3>
-<img src="/translations/images/tweezers/tweezersCN.png">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/tweezers/tweezersCN.png">
 {{< /tab >}}
 {{< tab "English" >}}
 <h3>English</h3>
-<img src="/translations/images/tweezers/tweezersEN.jpg">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/tweezers/tweezersEN.jpg">
 {{< /tab >}}
 {{< /tabs >}}
 

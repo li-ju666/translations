@@ -2,7 +2,7 @@
 title: "Page 01 / Panels 01-06"
 ---
 
-![renyu page](/images/renyu/renyu_01.png)
+![renyu page](/lhh_dir/renyu/renyu_01.png)
 
 {{% columns %}}
 

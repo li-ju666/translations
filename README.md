@@ -103,7 +103,7 @@ Here is how the template should look like now:
 title: Page XX
 ---
 
-![biao front](/images/biao/seifert0726_biao_00ZZ_0XX.jpg)
+![biao front](/lhh_dir/biao/seifert0726_biao_00ZZ_0XX.jpg)
 
 {{% columns %}}
 - Left column content: source text in Chinese
@@ -117,7 +117,7 @@ You will also notice, that the way the template handles images now also changed 
 ```md
 old: ![alt text](./../../../images/bethune/bethune1973/bethune1973_006.jpg)
 
-new: ![alt text](/images/bethune/bethune1973/bethune1973_006.jpg)
+new: ![alt text](/lhh_dir/bethune/bethune1973/bethune1973_006.jpg)
 ```
 
 So, to sum up, here is an example page the way we would write it in the old format:
@@ -147,7 +147,7 @@ And here it is the way it should look from now on:
 title: Page 04
 ---
 
-![bingconglin page](/images/bingconglin/bingconglin_05.jpg)
+![bingconglin page](/lhh_dir/bingconglin/bingconglin_05.jpg)
 
 {{% columns %}}
 
@@ -188,7 +188,7 @@ static
 To include images in your markdown use:
 
 ```md
- ![biao cover](/images/biao/seifert0726_biao_0001_0.jpg)
+ ![biao cover](/lhh_dir/biao/seifert0726_biao_0001_0.jpg)
 ```
 
 ## Deployment

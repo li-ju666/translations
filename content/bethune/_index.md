@@ -32,17 +32,17 @@ Bethune’s legacy rests on his deeds, but also on a number of historical docume
 {{< tabs "BethunePhotographs" >}}
 {{< tab "Photo 1" >}}
 <h3>Dr. Norman Bethune operating on an injured soldier in the Songyankou model ward, Wutai</h3>
-<img src="/translations/images/bethune/intro_01.png" alt="bethune_intro_01">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/bethune/intro_01.png" alt="bethune_intro_01">
 <p>Source: photograph by Sha Fei. Image courtesy of Michael Lindsay Special Collections, University of Bristol Library.</p>
 {{< /tab >}}
 {{< tab "Photo 2" >}}
 <h3>Dr. Norman Bethune on horseback, travelling from the hospital to military headquarters</h3>
-<img src="/translations/images/bethune/intro_02.png" alt="bethune_intro_01">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/bethune/intro_02.png" alt="bethune_intro_01">
 <p>Source: photograph by Michael Lindsay. Image courtesy of Michael Lindsay Special Collections, University of Bristol Library.</p>
 {{< /tab >}}
 {{< tab "Photo 3" >}}
 <h3>Dr. Norman Bethune’s interpreter (Dong Yueqian), General Nie Rongzhen (Nieh Jung-chen 聂荣臻), and Dr. Norman Bethune, 1938</h3>
-<img src="/translations/images/bethune/intro_03.png" alt="bethune_intro_01">
+<img src="https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/bethune/intro_03.png" alt="bethune_intro_01">
 <p>Source: photograph by Michael Lindsay. Image courtesy of Michael Lindsay Special Collections, University of Bristol Library.</p>
 {{< /tab >}}
 {{< /tabs >}}

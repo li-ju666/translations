@@ -1,7 +1,7 @@
 ---
 title: Page 41
 ---
-![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_044.jpg)
+![wushengdezhandou page](/lhh_dir/wushengdezhandou/wushengdezhandou_044.jpg)
 
 {{% columns %}}
 

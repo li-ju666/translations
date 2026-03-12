@@ -2,7 +2,7 @@
 title: Backcover
 weight: 121
 ---
-![nezha page](/images/nezha/nezha_122.jpg)
+![nezha page](/lhh_dir/nezha/nezha_122.jpg)
 
 {{% columns %}}
 - 哪吨闹东海

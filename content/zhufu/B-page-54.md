@@ -2,7 +2,7 @@
 title: Page 54
 ---
 
-![zhufu panel](/images/zhufu/seifert0772_zf_0059_054.jpg)
+![zhufu panel](/lhh_dir/zhufu/seifert0772_zf_0059_054.jpg)
 
 {{% columns %}}
 

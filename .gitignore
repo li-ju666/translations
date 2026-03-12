@@ -3,3 +3,4 @@
 resources/
 /.idea
 /public
+.hugo_build.lock

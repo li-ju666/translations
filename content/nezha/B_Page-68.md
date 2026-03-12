@@ -2,7 +2,7 @@
 title: Page 68
 weight: 72
 ---
-![nezha page](/images/nezha/nezha_073.jpg)
+![nezha page](/lhh_dir/nezha/nezha_073.jpg)
 
 {{% columns %}}
 

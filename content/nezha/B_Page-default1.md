@@ -2,7 +2,7 @@
 title: Publication Note
 weight: 1
 ---
-![nezha page](/images/nezha/nezha_002.jpg)
+![nezha page](/lhh_dir/nezha/nezha_002.jpg)
 
 {{% columns %}}
 

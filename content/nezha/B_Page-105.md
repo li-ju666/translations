@@ -2,7 +2,7 @@
 title: Page 105
 weight: 109
 ---
-![nezha page](/images/nezha/nezha_110.jpg)
+![nezha page](/lhh_dir/nezha/nezha_110.jpg)
 
 {{% columns %}}
 

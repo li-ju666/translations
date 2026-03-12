@@ -2,7 +2,7 @@
 title: Summary
 weight: 4
 ---
-![nezha page](/images/nezha/nezha_005.jpg)
+![nezha page](/lhh_dir/nezha/nezha_005.jpg)
 
 {{% columns %}}
 

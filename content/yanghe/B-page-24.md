@@ -2,7 +2,7 @@
 title: Page 24
 ---
 
-![yanghe page](/images/yanghe/yanghebianshang_026.jpg)
+![yanghe page](/lhh_dir/yanghe/yanghebianshang_026.jpg)
 
 {{% columns %}}
 

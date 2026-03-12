@@ -1,7 +1,7 @@
 ---
 title: Page 22
 ---
-![wushengdezhandou page](/images/wushengdezhandou/wushengdezhandou_025.jpg)
+![wushengdezhandou page](/lhh_dir/wushengdezhandou/wushengdezhandou_025.jpg)
 
 {{% columns %}}
 
