@@ -4,7 +4,7 @@ type: docs
 title: 2. 小圣闹天宫 Der Kleine Heilige versetzt den Himmel in Aufruhr
 ---
 
-![img 0001](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/1/0001.jpg)
+![img 0001](https://pub-d397235562d54229bc186f3dd325b80b.r2.dev/houxiyouji/2/0001.jpg)
 
 {{% columns %}}
 
